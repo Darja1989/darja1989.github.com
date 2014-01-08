@@ -1,7 +1,7 @@
 $(document).ready(function(){
 	$("a#single_image").fancybox();
 	
-	var image_bg = new Array('url(images/1.jpg)', 'url(images/2.jpg)', 'url(images/3.jpg)');
+	var image_bg = new Array('url(images/1.JPG)', 'url(images/2.JPG)', 'url(images/3.jpg)');
 	$('#slide').css('background', image_bg[0]);
 	setTimeout(slider,5000);
 	
