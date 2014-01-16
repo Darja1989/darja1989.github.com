@@ -12,7 +12,7 @@ body
 	/*-o-background-size: 100% 100%; /* Для браузера Opera */
 	/*-moz-background-size: 100% 100%; /* Для MozillaFireFox */
 	background-attachment:scroll;
-	background: url("../images/cube.jpg") no-repeat right;
+	/*background: url("../images/cube.jpg") no-repeat right;*/
 }
 
 #header 
@@ -115,7 +115,7 @@ body
 	position:fixed;
 	bottom:0;
 	left:0;
-	background: LightGrey;
+	background: LightBlue;
 	height:65px;
 	margin-top: -65 px;
     padding: 0;
